@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "get-papers-list-ramesh"
+version = "0.1.0"
+description = "Fetch PubMed papers and filter non-academic authors"
+authors = ["Ramesh <rameshbellani95@gmail.com>"]
+packages = [{include = "papers_fetcher"}] 
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.31.0"
+pandas = "^1.5.3"
+argparse = "^1.4.0"
+lxml = "^4.9.3"
+
+[tool.poetry.scripts]
+get-papers-list = "papers_fetcher.cli:main"

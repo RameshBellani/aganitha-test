@@ -38,7 +38,7 @@ pip install -i https://test.pypi.org/simple/ get-papers-list-ramesh
 
 ### **4️⃣ Clone the Repository (If Running Locally)**  
 ```sh
-git clone https://github.com/yourusername/get-papers-list.git
+git clone https://github.com/rameshbellani/aganitha-test.git
 cd get-papers-list
 poetry install
 ```
@@ -102,7 +102,7 @@ All dependencies are managed via **Poetry**.
 ## 🛠 Development & Contribution  
 ### **Setup Development Environment**  
 ```sh
-git clone https://github.com/yourusername/get-papers-list.git
+git clone https://github.com/rameshbellani/aganitha-test.git
 cd get-papers-list
 poetry install
 ```
@@ -127,7 +127,7 @@ This project is licensed under the **MIT License**.
 
 ## 🌐 Project Link  
 🔗 **TestPyPI Package:** [get-papers-list-ramesh](https://test.pypi.org/project/get-papers-list-ramesh/)  
-🔗 **GitHub Repo:** [your-github-repo-link](https://github.com/yourusername/get-papers-list)  
+🔗 **GitHub Repo:** [your-github-repo-link](https://github.com/rameshbellani/aganitha-test.git)  
 
 ---
 
